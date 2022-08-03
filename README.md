@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert Kimutai
 - 👀 I’m interested being an expert in Data Science and software development
-- 🌱 I’m currently learning R programming
-- 💞️ I’m looking to collaborate on Data Science projects
+- 🌱 I’m currently advancing my skills in Data Science using R programming
+- 💞️ I’m looking to gain practical skills on handling data science projects to build my portfolio and expertise in the field.
 - 📫 How to reach me kimutairobert72@gmail.com 
 
 <!---
