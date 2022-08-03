@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roking89
+- 👋 Hi, I’m Robert Kimutai
 - 👀 I’m interested being an expert in Data Science and software development
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on Data Science projects
